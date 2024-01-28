@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dysels
+- 👀 I’m interested in Techonology
+- 🌱 I’m currently learning PHP, JavaScript and PAWN
+- 😄 Pronouns: He/him
