@@ -24,7 +24,7 @@ I'm a passionate software developer who loves building awesome things with code.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dysels&show_icons=true)
 
 ### Contact
 
