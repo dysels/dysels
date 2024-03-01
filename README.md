@@ -30,7 +30,7 @@ I'm a passionate software developer who loves building awesome things with code.
 
 Feel free to connect with me:
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/dysel)
-- Email: [email@example.com](mailto:farelaranta175@google.com)
-- Twitter: [@username](https://twitter.com/dysels)
-- Website: [www.example.com](https://www.dysel.com)
+- LinkedIn: [Dysel](https://www.linkedin.com/in/dysel)
+- Email: [farelaranta175@gmail.com](mailto:farelaranta175@google.com)
+- Twitter: [@dysels](https://twitter.com/dysels)
+- Website: [www.dysel.com](https://www.dysel.com)
