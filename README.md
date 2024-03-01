@@ -20,7 +20,7 @@ I'm a passionate software developer who loves building awesome things with code.
 
 ### Recent Projects
 
-- [Risestar Roleplay](https://github.com/dysel/risestar_roleplay): Our SA-MP/Open.mp Roleplay Server project aims to create an immersive and dynamic multiplayer gaming experience within the Grand Theft Auto: San Andreas (GTA SA) universe. As a roleplay server, players are provided with a platform to interact, collaborate, and create unique stories within a virtual world.
+- [Risestar Roleplay](https://github.com/dysels/risestar_roleplay): Our SA-MP/Open.mp Roleplay Server project aims to create an immersive and dynamic multiplayer gaming experience within the Grand Theft Auto: San Andreas (GTA SA) universe. As a roleplay server, players are provided with a platform to interact, collaborate, and create unique stories within a virtual world.
 
 ### GitHub Stats
 
