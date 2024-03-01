@@ -1,4 +1,4 @@
-# <Your Name>
+# Farel Aranta
 
 ## Hello, World! 👋
 
