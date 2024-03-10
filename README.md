@@ -1,36 +1,27 @@
-# Farel Aranta
+# Dysel's GitHub Profile
 
-## Hello, World! 👋
+Welcome to my GitHub profile! I'm Dysel, a software enthusiast currently diving deep into learning Pawn, Sass, and various other IT-related topics. I'm also actively involved in running a GTA server project called Risestar, with a focus on roleplay mode.
 
-I'm a passionate software developer who loves building awesome things with code. Welcome to my GitHub profile!
+## About Me
 
-### About Me
+- 🎮 Currently exploring Pawn scripting language for game development.
+- 💻 Learning Sass and other front-end technologies to enhance my web development skills.
+- 🚀 Passionate about gaming and game development.
+- 🌟 Excited to contribute to the open-source community and collaborate on interesting projects.
 
-- 💻 Currently, I work as a Developer at Risestar.
-- 🌱 I'm currently learning and expanding my skills in open.mp.
-- 💬 Ask me about: technology, web development, and all things IT-related.
-- 📫 The best way to reach me is via [farelaranta175@gmail.com](mailto:farelaranta175@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dysel).
+## My Projects
 
-### Skills
+Here's a highlight of my current project:
 
-- **Programming Languages**: JavaScript, Python, PHP
-- **Frameworks**: Bootstrap
-- **Databases**: MySQL
-- **Tools**: Git, VS Code
+- [Risestar](link): A GTA server project focusing on roleplay mode.
 
-### Recent Projects
+Feel free to explore my repositories to find out more about my projects!
 
-- [Risestar Roleplay](https://github.com/dysels/risestar_roleplay): Our SA-MP/Open.mp Roleplay Server project aims to create an immersive and dynamic multiplayer gaming experience within the Grand Theft Auto: San Andreas (GTA SA) universe. As a roleplay server, players are provided with a platform to interact, collaborate, and create unique stories within a virtual world.
+## Get in Touch
 
-### GitHub Stats
+- 📧 Email: [farelaranta175@gmail.com](mailto:farelaranta175@gmail.com)
+- 💬 LinkedIn: [linkedin.com/in/dysel](https://www.linkedin.com/in/dysel/)
+- 🌐 Website: [dysel.dev](https://www.dysel.dev)
+- 🐦 Twitter: [@dysel_dev](https://twitter.com/dysel_dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dysels&show_icons=true)
-
-### Contact
-
-Feel free to connect with me:
-
-- LinkedIn: [Dysel](https://www.linkedin.com/in/dysel)
-- Email: [farelaranta175@gmail.com](mailto:farelaranta175@google.com)
-- Twitter: [@dysels](https://twitter.com/dysels)
-- Website: [www.dysel.com](https://www.dysel.com)
+Let's connect and share our passion for technology and gaming!
